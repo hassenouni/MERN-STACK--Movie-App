@@ -1,4 +1,6 @@
 Thank you for Having interest in this repository ! 
+Movie App Website I used ReactJS, NodeJS, ExpressJS, MongoDB which is MERN stack
+
 
 To use this application, 
 
